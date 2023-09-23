@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+table, th, td{
+    width: 500px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: yellow;
+  }
+
+  .centered-element {
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
